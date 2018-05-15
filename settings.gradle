@@ -1,0 +1,3 @@
+include ':app'
+
+//project (':market-app').projectDir = new File('../market-android-module/market-app')

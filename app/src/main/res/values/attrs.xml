@@ -1,0 +1,11 @@
+<resources translatable="false">
+<string name="app_name">eddress</string>
+<string name="serverUrl">https://app.eddress.co/</string>
+<string name="serverUrlDebug">https://app.eddress.co/</string>
+<!--<string name="serverUrlDebug">http://sandbox.eddress.co/</string>-->
+<!--<string name="serverUrlDebug">http://192.168.0.101:8080/</string>-->
+<string name="application" >eddress</string>
+<string name="branch_key_prod">key_live_kfqEk4UY4o1M4rSFnxvSqoblsDkOH4QT</string>
+<string name="branch_key_test">key_test_hpBykZH37f9S1AKueD4WNokmsBjLQ0J8</string>
+<string name="geo_api_key">AIzaSyDqeh7zJAWTfJC_ExxUI9IWNGC-ImkD6g8</string>
+</resources>

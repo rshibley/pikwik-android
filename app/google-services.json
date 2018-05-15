@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_id": "eddress-986",
+    "project_number": "199011110234",
+    "name": "Eddress"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199011110234:android:9bcc5af8f12d1e13",
+        "client_id": "android:android.com.eddress",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "android.com.eddress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUseEKh4rfTQ7igyC9-U9Dpuz8FMFT88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199011110234:android:67f8bad334be27d1",
+        "client_id": "android:com.eddress",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.eddress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUseEKh4rfTQ7igyC9-U9Dpuz8FMFT88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-72374424-2"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

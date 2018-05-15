@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowBackground">#29294D</color>
+
+    <color name="headerIconsColor">#FFFFFF</color>
+
+    <color name="profileIconColor">#FFFFFF</color>
+
+    <color name="headerTextColor">#FFFFFF</color>
+    <color name="sectionHeaderTextColor">#282850</color>
+
+    <color name="welcomeTextColor">#43437E</color>
+
+    <color name="tooltipsBackground">#FEA668</color>
+    <color name="background">#F7F7F7</color>
+
+    <color name="primaryTextColor">#282850</color>
+    <color name="secondaryTextColor">#FEA668</color>
+
+    <color name="buttonColorLight">#FEA668</color>
+    <color name="buttonColor">#FB5373</color>
+
+    <color name="primaryColor">#282850</color>
+    <color name="secondaryColor">#FEA668</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+    <color name="headerColorLight">#FEA668</color>
+    <color name="headerColorDark">#FB5373</color>
+
+    <color name="statusBarColor">#137A74</color>
+
+    <color name="textButtonColor">#FA3278</color>
+
+    <dimen name="cornerRadius">4dp</dimen>
+
+    <bool name="hasBackgroundImage">false</bool>
+    <bool name="homePageFixedHeader">true</bool>
+</resources>
